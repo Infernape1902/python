@@ -1,3 +1,64 @@
+# Python Programming Learning Portfolio
+
+## Repository Overview
+
+This repository documents my learning journey from Python fundamentals to advanced computer science concepts, including object-oriented programming, data structures, algorithms, graph theory, and dynamic programming.
+
+The portfolio demonstrates practical programming knowledge, problem-solving techniques, and software development concepts through structured chapter summaries and examples.
+
+
+## Table of Contents
+- [Chapter 1: Python Basics](#chapter-1-python-basics)
+- [Chapter 2: Installing Python](#chapter-2-installing-python)
+- [Chapter 3: Loops and Sequences](#chapter-3-loops-and-sequences)
+- [Chapter 4: Dictionaries and Sets](#chapter-4-dictionaries-and-sets)
+- [Chapter 5: Error Handling](#chapter-5-error-handling)
+- [Chapter 6: Classes and Objects](#chapter-6-classes-and-objects)
+- [Chapter 7: Object-Oriented Programming (OOP)](#chapter-7-object-oriented-programming-oop)
+- [Chapter 8: Linear Data Structures](#chapter-8-linear-data-structures)
+- [Chapter 9: Algorithms](#chapter-9-algorithms)
+- [Chapter 10: Graphs and Trees](#chapter-10-graphs-and-trees)
+- [Chapter 11: Dynamic Programming](#chapter-11-dynamic-programming)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br>
+
+---
+
+<br><br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Chapter 1: Python Basics
 
 ## Overview
